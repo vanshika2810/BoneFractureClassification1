@@ -29,13 +29,13 @@ Below are some snapshots of the project in action:
 ![Gradio Interface](/screenshots/Gradio_Interface.png)
 
 ### 📸 Model comparison
-![ Model_comparison](/Model_comparison.png)
+![ Model_comparison](/screenshots/Model_comparison.png)
 
 ### 📸 Distribution frac vs non frac
-![Distribution_frac_vs_non_frac](/Distribution_frac_vs_non_frac.png)
+![Distribution_frac_vs_non_frac](/screenshots/Distribution_frac_vs_non_frac.png)
 
 ### 📸Confusion matrix frac vs non frac
-![Confusion_matrix_frac_vs_non_frac](/Confusion_matrix_frac_vs_non_frac.png)
+![Confusion_matrix_frac_vs_non_frac](/screenshots/Confusion_matrix_frac_vs_non_frac.png)
 
 
 
