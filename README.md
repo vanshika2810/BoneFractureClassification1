@@ -45,7 +45,7 @@ Below are some snapshots of the project in action:
 - **Reliable Support for Medical Professionals:** Assists doctors in decision-making with minimal manual intervention.
 
 ## 📂 Project Repository
-🔗 [GitHub Repository]([/github.com/Priyanshi7559](https://github.com/priyanshi7559/BoneFractureClassification))
+🔗 [GitHub Repository](<[/github.com/vanshika2810](https://github.com/vanshika2810/BoneFractureClassification1)>)
 
 ## 📌 Future Scope
 - Implementing a mobile application for real-time fracture detection.
